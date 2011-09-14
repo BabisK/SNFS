@@ -1,0 +1,8 @@
+This is a the readme of the SNFS project.
+
+SNFS is a research project aimed to create a file system optimized for indexing, searching and matching online objects based on object metadata which abound in modern social network sites and services.
+
+For more information about the project take a look at the published paper:
+http://research.microsoft.com/en-us/projects/ldg/a07-kaidos.pdf
+
+For more information about compilation, setup and usage of the file system, please contact the author at kaidos@ceid.upatras.gr
